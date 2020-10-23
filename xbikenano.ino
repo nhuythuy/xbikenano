@@ -1,7 +1,7 @@
 // Otc 23 2020
 // Author: Thuy Huy Nguyen
 
-
+// inputs
 #define PIN_IN_SIGNAL_POWER         11  // send power out for sensing
 #define PIN_IN_SIGNAL_LEFT          10
 #define PIN_IN_SIGNAL_RIGHT         12
